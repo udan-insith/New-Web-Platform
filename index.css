@@ -71,24 +71,25 @@ body { margin: 0; background-color: #fff; font-family: 'Helvetica', sans-serif; 
   position: relative;
   display: flex;
   align-items: center;
-  margin: 10px 40%;
+  margin: 10px 30%;
+  width: 50%;
 }
 
 .search-input {
   background: transparent;
   border: none;
   border-bottom: 1px solid #444; /* Subtle bottom border */
-  color: #fff;
+  color: #000000;
   padding: 8px 30px 8px 5px;
   font-size: 0.75rem;
   letter-spacing: 1px;
-  width: 150px;
+  width: 500px;
   transition: width 0.4s, border-color 0.4s;
 }
 
 .search-input:focus {
   outline: none;
-  width: 220px;
+  width: 5200px;
   border-bottom: 1px solid #fff; /* Brighten on focus */
 }
 
