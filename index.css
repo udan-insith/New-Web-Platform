@@ -103,3 +103,11 @@ body { margin: 0; background-color: #fff; font-family: 'Helvetica', sans-serif; 
   padding: 4px 6px;
   border-radius: 15px;
 }
+
+
+#p1 {
+  font-size: 2rem;
+  text-align: right;
+  padding-left: 200px;
+  font-weight: bold;
+}
